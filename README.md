@@ -22,7 +22,7 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div> <br/>
 
-<p align="center">My name is Letícia Cotta ("Letícia" in brazilian portuguese mean joy btw), but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ 🏳️‍🌈 community, and am a journalist. </p>
+<p align="center">My name is Letícia Cotta ("Letícia" in brazilian portuguese means joy btw), but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ 🏳️‍🌈 community, and am a journalist. </p>
 </div> </br>
 
 <div style="display: inline_block" align="center">
