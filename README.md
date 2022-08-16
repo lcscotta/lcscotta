@@ -1,12 +1,9 @@
 ## Hello there! ✨✨✨✨
-##### Since 90's bringing joy and chaos to this world. Hope you like it. 🌙
-
-#### I'm Letícia Cotta, but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ community.
+##### Since 90's bringing joy and chaos to this world. Hope you like it. 🌙 <br/>
+[![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://noestalgie.wordpress.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lethak)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiacotta/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/lcscotta) <br/>
+I'm Letícia Cotta, but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ community, and a journalist. <br/>
 
 ![Cotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscotta&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcscotta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### I'm a writter and a journalist too. Checkout my blog and social media:
-[![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://noestalgie.wordpress.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lethak)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiacotta/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/lcscotta)
 
 #### Need to relax? Checkout my playlists!
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12147382212?si=0afc80ac50d24757)
