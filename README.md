@@ -3,14 +3,8 @@
 [![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://noestalgie.wordpress.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lethak)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiacotta/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/lcscotta) <br/>
 
 <div style="display: inline_block">
-<img align="center" src="https://i.picasion.com/pic92/9655af89a23e83ea89d52e450c2500fc.gif" width="300" height="300" border="1px" /></br>
-<span>I'm Letícia Cotta, but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ 🏳️‍🌈 community, and am a journalist. </span></div><br/>
-
-<div style="display: inline_block">
-
-  ![Cotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscotta&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcscotta&layout=compact)](https://github.com/lcscotta/github-readme-stats)
-  
-</div>
+<img align="center" src="https://i.picasion.com/pic92/9655af89a23e83ea89d52e450c2500fc.gif" width="300" height="300" border="1px" />
+</div><br/>
 
 <div style="display: inline_block"> <br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,5 +22,17 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div> <br/>
 
+<div style="display: center">
+<span>I'm Letícia Cotta, but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ 🏳️‍🌈 community, and am a journalist. </span>
+</div> </br>
+
+<div style="display: inline_block">
+
+![Cotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscotta&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcscotta&layout=compact)](https://github.com/lcscotta/github-readme-stats)
+</div>
+
+<div style="display: center">
+
 #### Need to relax? Checkout my playlists!
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12147382212?si=0afc80ac50d24757)
+</div> </br>
