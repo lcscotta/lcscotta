@@ -20,4 +20,4 @@ I'm Letícia Cotta, but you can call me Letha. You could refer to me with any pr
 </div> <br/>
 
 #### Need to relax? Checkout my playlists!
-[[Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12147382212?si=0afc80ac50d24757)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12147382212?si=0afc80ac50d24757)
