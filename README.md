@@ -2,9 +2,9 @@
 ##### Since 90's bringing joy and fun to this world. Hope you like it. 🌙 <br/>
 [![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://noestalgie.wordpress.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lethak)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiacotta/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/lcscotta) <br/>
 
-<div style="display: center">
-<img align="center" src="https://i.picasion.com/pic92/9655af89a23e83ea89d52e450c2500fc.gif" width="300" height="300" border="0" />
-<span> I'm Letícia Cotta, but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ 🏳️‍🌈 community, and am a journalist. </span> </div> <br/>
+<div style="display: inline_block">
+<img align="center" src="https://i.picasion.com/pic92/9655af89a23e83ea89d52e450c2500fc.gif" width="300" height="300" border="1px" /></br>
+<span>I'm Letícia Cotta, but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ 🏳️‍🌈 community, and am a journalist. </span></div><br/>
 
 <div style="display: inline_block">
 
