@@ -21,14 +21,12 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div> <br/>
 
-<p align="center">My name is Letícia Cotta ("Letícia" in brazilian portuguese means joy btw), but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ 🏳️‍🌈 community, and am a journalist.
-I still don't know what area I want to work in with I.T - I'm interested in basically everything. But really like the leadership & management, as well as data & front/back-end area, probably because of the ease of being a communicator.
+<p align="center">My name is Letícia Cotta, but you can call me Letha. You could refer to me with any pronouns (my preference is agender or femmale ones). I'm also represents a bisexual/pansexual letter in the LGBTQIAP+ 🏳️‍🌈 community, a journalist and a full stack developer jr.
 </br>
-✉️ E-mail: leticiacotta@gmail.com
 </br></p>
 
 <p align="center">About me</br>
-I also love to play role-playing games (RPGs) like Dungeons&Dragons and Vampire: The Mask, and moba (like League of Legends), or even fps (like Overwatch) with my friends. Almost completing my plan to be a crazy cat lady who conquers the world with her pets. Feel free to tell me a joke that doesn't offend minorities. </p> </div> </br>
+Besides being a journalist and a developer, I'm good at analysis and love to learn new languages. I also love to play role-playing games (RPGs) like Dungeons&Dragons and Vampire: The Mask, and moba (like League of Legends), or even fps (like Overwatch) with my friends. Almost completing my plan to be a crazy cat lady who conquers the world with her pets. Feel free to tell me a joke that doesn't offend minorities. </p> </div> </br>
 
 <div style="display: inline_block" align="center">
 
